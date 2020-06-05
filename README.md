@@ -3,6 +3,7 @@
 ## Teck stack
 
 - Ruby
+- Rails
 
 ## Authors
 
