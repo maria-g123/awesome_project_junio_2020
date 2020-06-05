@@ -2,11 +2,6 @@
 
 ## Teck stack
 
-- Ruby/Rails
-- Amazon s3
-- Amazon EC2
-- Route 53
-
 ## Authors
 
 - Maria Garza
