@@ -2,14 +2,14 @@
 
 ## Teck stack
 
-- Ruby
-- Rails
+- Ruby/Rails
 
 ## Authors
 
 - Maria Garza
+- Carlos Guerra
 
 ## Features
 
 - Add new users
-- Make social
+- Add contacts to network
